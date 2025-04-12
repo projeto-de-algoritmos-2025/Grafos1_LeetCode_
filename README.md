@@ -12,32 +12,18 @@
 ## Sobre 
 A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercícios difíceis (nível 9 ou 10) e 1 médio (nível 7 ou 8) que estejam relacionado ao conteúdo que vimos em grafos 1. Depois de submetidos no juiz online e aprovados, os exercícios serão inseridos aqui no repositório.
 
-<!-- ## Exercícios Escolhidos
+## Exercícios Escolhidos
 
-### Nível Médio
+<!-- ### Nível Médio
 
 |Exercício | Aluno |
 | -- | -- |
-| X | X |
+| X | X | -->
 
 ### Nível Difícil
 
 |Exercício | Aluno |
 | -- | -- |
+| [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Ana Caroline C. Rocha |
 | X | X |
 | X | X |
-| X | X |
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo. -->
