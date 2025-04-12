@@ -19,16 +19,16 @@ Retorne o custo mínimo para fazer com que a grade tenha pelo menos um caminho v
 
 ### Caso 1
 
-![Case1](/Minimum%20Cost/assets/img/caso1.png)
+![Case1](/Minimum%20Cost/assets/img/caso1.jpeg)
 
 ### Caso 2
 
-![Case2](/Minimum%20Cost/assets/img/caso2.png)
+![Case2](/Minimum%20Cost/assets/img/caso2.jpeg)
 
 ### Caso 3
 
-![Case3](/Minimum%20Cost/assets/img/caso3.png)
+![Case3](/Minimum%20Cost/assets/img/caso3.jpeg)
 
 ### Submissão
 
-![Submission](/Minimum%20Cost/assets/img/submissao.png)
+![Submission](/Minimum%20Cost/assets/img/submissao.jpeg)
