@@ -25,5 +25,5 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 |Exercício | Aluno |
 | -- | -- |
 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Ana Caroline C. Rocha |
-| X | X |
+| [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | Lucas Gobbi Bergholz |
 | X | X |
