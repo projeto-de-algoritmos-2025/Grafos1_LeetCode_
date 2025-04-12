@@ -16,4 +16,4 @@ Retorna o comprimento do caminho mais curto que visita cada nó. Você pode come
 
 ### Submissão
 
-![Submission](/Shortest%20Paths/assets/img/submissao.png)
+![Submission](/Shortest%20Path/assets/img/submissao.png)
