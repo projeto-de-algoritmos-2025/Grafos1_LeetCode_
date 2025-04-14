@@ -14,11 +14,11 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 ## Exercícios Escolhidos
 
-<!-- ### Nível Médio
+### Nível Médio
 
 |Exercício | Aluno |
 | -- | -- |
-| X | X | -->
+| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Ana Caroline C. Rocha |
 
 ### Nível Difícil
 
